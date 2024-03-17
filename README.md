@@ -6,4 +6,3 @@
 
 * Скрипты:
     * [Установить brew](https://github.com/JoKeRooo7/s21_scripts/tree/develop/brew)
-    * [Установить git lfs](https://github.com/JoKeRooo7/s21_scripts/tree/develop/git_lfs/intell_processor)
